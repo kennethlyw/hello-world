@@ -1,4 +1,4 @@
-# hellow-world
+# hello-world
 First time I create a repository!
 Hi Humans!
 
